@@ -32,4 +32,6 @@ print(libro)
 libro["Comida"].append("Perro")
 
 
+aeronaves = {"Boeing" : {"Matricula" : 123213213, "Modelo" : "a340", "horas" : 500000000}}
 
+print(aeronaves["Boeing"]["Matricula"])
